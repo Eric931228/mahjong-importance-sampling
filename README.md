@@ -1,4 +1,4 @@
-# Riichi Mahjong Rare-Win Importance Sampling
+# Riichi Mahjong Rare Event Importance Sampling
 
 以 **Mixture Importance Sampling** 估計日本麻將稀有和牌事件，先以已知的天和理論機率進行校準，再延伸至南家、西家、北家的第一巡地和模擬。
 
